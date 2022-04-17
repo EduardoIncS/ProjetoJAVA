@@ -1,4 +1,4 @@
-package People;
+package People.ProjetoJAVA;
 
 public class Pessoas {
     private String Nome;

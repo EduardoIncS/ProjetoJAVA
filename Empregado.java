@@ -1,4 +1,4 @@
-package People;
+package People.ProjetoJAVA;
 
 public class Empregado extends Pessoas {
     public int codSetor;
