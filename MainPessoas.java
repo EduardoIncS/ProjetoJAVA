@@ -1,4 +1,4 @@
-package People.ProjetoJAVA;
+package ProjetoJAVA;
 
 public class MainPessoas {
     public static void main (String[] args){

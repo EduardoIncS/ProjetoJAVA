@@ -1,4 +1,4 @@
-package People.ProjetoJAVA;
+package ProjetoJAVA;
 
 public class Fornecedor extends Pessoas {
     private float valorCredito;
